@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Outrun Chase](https://www.youtube.com/watch?v=CrOI5HUAPCg&t=7993s)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
