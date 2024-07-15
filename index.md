@@ -1,10 +1,13 @@
 ## Hey there 👋
-I am Angad Kambli. A CSE graduate from IIT Roorkee, currently working as an Applications Engineer at Oracle. Some projects that I worked upon:
+I am Angad Kambli. A CSE graduate from the Indian Institute of Technology, Roorkee - currently working as an Applications Engineer at Oracle. Some projects that I worked upon:
 
 ---
 
-[ProcSDF](https://github.com/angad-k/ProcSDF)
-![image](https://github.com/user-attachments/assets/0f2d635d-2c2a-458b-b711-a8faec8b9e85)
+**ProcSDF**
+<br>
+This was my final year project of engineering. It’s a raymarching based 3D engine written in C++ that allows users to create 3D scenes in a node based workflow. I am especially proud of this project as we ideated the workings of this from scratch - taking reference from research papers and other open source software to come up with a solution that is performant and implemented it with a modular and easily extensible OOPs architecture that seems pretty elegant to me. This project involves traversal of a node tree to convert the user defined graph into shader code that is used to render a 3D scene. Solving this problem and seeing it work has been one of the most rewarding experiences of my life and I have been searching for a similar kind of work ever since.
+<br>
+[Check the project out here](https://github.com/angad-k/ProcSDF)
 
 ---
 
@@ -27,8 +30,9 @@ Other than Outrun Chase, I have worked on a number of other games too.
 
 ---
 
-<b>Pseudolocalization in Godot (GSoC'21)</b>
+<b>Pseudolocalization in Godot (GSoC'21):</b>
 As a part of Google Summer of Code'21, I worked on adding the pseudolocalization feature to Godot - an open source game engine written in C++. Pseudolocalization is a useful tool to test if products have been internationalized properly.
+<br>
 [GSoC Archive](https://summerofcode.withgoogle.com/archive/2021/projects/4924604774088704) | [Details](https://gist.github.com/angad-k/60a0d39882c5dff00e8b14183c96effb) | [Code](https://github.com/godotengine/godot/pull/51395)
 
 ### Also...
@@ -37,6 +41,8 @@ You can find me writing poetry, stories and other random things in my free time.
 
 - Check out my [substack](https://kambli.substack.com/) to read my ramblings.
 - Check out my [public instagram page](https://www.instagram.com/kambli.text/) to check out my poetry, etc.
+
+I have also played around with Blender and you can check out my work with it [here](https://angad-k.github.io/Blender-miscellaneous/).
 
 ---
 
