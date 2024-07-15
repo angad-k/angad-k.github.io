@@ -11,7 +11,7 @@ This was my final year project of engineering. It’s a raymarching based 3D eng
 
 ---
 
-[Outrun Chase](https://www.youtube.com/watch?v=CrOI5HUAPCg&t=7993s)
+**Outrun Chase** \| [This was featured in GodotCon!](https://www.youtube.com/watch?v=CrOI5HUAPCg&t=7993s)
 <img src="images/OutrunChase.png?raw=true"/>
 
 ---
@@ -25,7 +25,7 @@ Other than Outrun Chase, I have worked on a number of other games too.
 
 ---
 
-[Rootex](https://github.com/sdslabs/Rootex)
+Rootex \| [Code](https://github.com/sdslabs/Rootex)
 ![image](https://github.com/user-attachments/assets/0f7b0759-d2b5-4fa8-998c-8b1b7b735091)
 
 ---
