@@ -15,10 +15,10 @@ I am Angad Kambli. A CSE graduate from IIT Roorkee, currently working as an Appl
 
 Other than Outrun Chase, I have worked on a number of other games too.
 
-- Vibe, a musical, minimalistic game - [Code](https://github.com/r41k0u/Vibe) | [Play](https://angad-k.github.io/VibeWeb/)
+- Vibe, a musical, minimalistic game - [Code](https://github.com/r41k0u/Vibe) \| [Play](https://angad-k.github.io/VibeWeb/)
 - Enchant, an endless 2d runner - [Code](https://github.com/angad-k/Enchant)
-- Sentience, a sci-fi 2D platformer - [Code](https://github.com/Org-Placeholder/Sentience) | [Gameplay Demo](https://www.youtube.com/watch?v=a57FwxNgt0s)
-- Da'Chess, 3D chess made in React using React Three Fiber - [Code](https://github.com/angad-k/crypto-chess) | [Gameplay Demo](https://www.youtube.com/watch?v=yew42WeQ9-g)
+- Sentience, a sci-fi 2D platformer - [Code](https://github.com/Org-Placeholder/Sentience) \| [Gameplay Demo](https://www.youtube.com/watch?v=a57FwxNgt0s)
+- Da'Chess, 3D chess made in React using React Three Fiber - [Code](https://github.com/angad-k/crypto-chess) \| [Gameplay Demo](https://www.youtube.com/watch?v=yew42WeQ9-g)
 
 ---
 
