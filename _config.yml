@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Angad Kambli # your name (or website title) here
+logo: "/images/angad.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Angad Kambli 
   <br><br>
-  Second description 
+  Computer Science and Engineer Graduate of 2023 from Indian Institutr of Technology, Roorkee. Currently working at Oracle as an Applications Engineer. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/angad-kambli/">LinkedIn</a> |
+  <a href="https://github.com/angad-k">GitHub</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
