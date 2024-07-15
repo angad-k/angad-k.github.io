@@ -1,10 +1,10 @@
 title: Angad Kambli # your name (or website title) here
 logo: "/images/angad.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  CSE'23 @ Indian Institute of Technology, Roorkee \| Applications Engineer @ Oracle 
+  CSE'23 @ Indian Institute of Technology, Roorkee | Applications Engineer @ Oracle 
   <br><br>
-  <a href="https://www.linkedin.com/in/angad-kambli/">LinkedIn</a> |
-  <a href="https://github.com/angad-k">GitHub</a>
+  <a href="https://github.com/angad-k">GitHub</a> | <a href="https://www.linkedin.com/in/angad-kambli/">LinkedIn</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
