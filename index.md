@@ -1,5 +1,5 @@
 ## Hey there 👋
-I am Angad Kambli. A CSE graduate from the Indian Institute of Technology, Roorkee - currently working as an Applications Engineer at Oracle. Some projects that I worked upon:
+I am Angad Kambli - A CSE graduate from the Indian Institute of Technology, Roorkee - currently working as an Applications Engineer at Oracle. Some projects that I worked upon:
 
 ---
 
