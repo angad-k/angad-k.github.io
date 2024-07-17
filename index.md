@@ -5,7 +5,7 @@ I am Angad Kambli - A CSE graduate from the Indian Institute of Technology, Roor
 
 ## Some projects that I've worked upon
 
-**ProcSDF** \| [Code](https://github.com/angad-k/ProcSDF) \| 
+**ProcSDF** \| [Code and other details](https://github.com/angad-k/ProcSDF)  
 
 ![Instagram post - 1 (3)](https://github.com/user-attachments/assets/69be3510-5637-4821-9dc5-b08a0f68db8f)
 
