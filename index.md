@@ -3,11 +3,20 @@ I am Angad Kambli - A CSE graduate from the Indian Institute of Technology, Roor
 
 ---
 
-**ProcSDF**
-<br>
+**ProcSDF** \| [Check the project out here](https://github.com/angad-k/ProcSDF)
+|  ![Mandelbulb1](https://github.com/user-attachments/assets/58ccbbe0-a186-488d-a8c0-e82209637f2c) |
+|:-------------------------:|
+
+| ![lightexp](https://github.com/user-attachments/assets/708a2c2b-3534-4d3b-8541-bc4650275927) | ![abstract](https://github.com/user-attachments/assets/05d34c5c-ef3e-40e3-b12d-a3eb6fca328e) | ![saturn](https://github.com/user-attachments/assets/14298073-0d15-4f2a-9d2e-bd6590ac4768) |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+
 This was my final year project of engineering. It’s a raymarching based 3D engine written in C++ that allows users to create 3D scenes in a node based workflow. I am especially proud of this project as we ideated the workings of this from scratch - taking reference from research papers and other open source software to come up with a solution that is performant and implemented it with a modular and easily extensible OOPs architecture that seems pretty elegant to me. This project involves traversal of a node tree to convert the user defined graph into shader code that is used to render a 3D scene. Solving this problem and seeing it work has been one of the most rewarding experiences of my life and I have been searching for a similar kind of work ever since.
-<br>
-[Check the project out here](https://github.com/angad-k/ProcSDF)
+
+
+
+
+
+
 
 ---
 
