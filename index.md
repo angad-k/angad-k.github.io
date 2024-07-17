@@ -36,6 +36,7 @@ Other than Outrun Chase, I have worked on a number of other games too.
 ---
 
 **Pseudolocalization in Godot (GSoC'21)** \| [GSoC Archive](https://summerofcode.withgoogle.com/archive/2021/projects/4924604774088704) \| [Details](https://gist.github.com/angad-k/60a0d39882c5dff00e8b14183c96effb) \| [Code](https://github.com/godotengine/godot/pull/51395)
+
 As a part of Google Summer of Code'21, I worked on adding the pseudolocalization feature to Godot - an open source game engine written in C++. Pseudolocalization is a useful tool to test if products have been internationalized properly.
 
 ### Also...
