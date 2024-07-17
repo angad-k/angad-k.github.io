@@ -1,9 +1,11 @@
 ## Hey there 👋
-I am Angad Kambli - A CSE graduate from the Indian Institute of Technology, Roorkee - currently working as an Applications Engineer at Oracle. Some projects that I worked upon:
+I am Angad Kambli - A CSE graduate from the Indian Institute of Technology, Roorkee - currently working as an Applications Engineer at Oracle. 
 
 ---
 
-**ProcSDF** \| [Check the project out here](https://github.com/angad-k/ProcSDF)
+## Some projects that I've worked upon
+
+**ProcSDF** \| [Code](https://github.com/angad-k/ProcSDF) \| 
 
 ![Instagram post - 1 (3)](https://github.com/user-attachments/assets/69be3510-5637-4821-9dc5-b08a0f68db8f)
 
