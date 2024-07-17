@@ -5,15 +5,10 @@ I am Angad Kambli - A CSE graduate from the Indian Institute of Technology, Roor
 
 **ProcSDF** \| [Check the project out here](https://github.com/angad-k/ProcSDF)
 
-![Instagram post - 1 (2)](https://github.com/user-attachments/assets/0ddeafd2-21dc-4e8e-9aa0-aad691eb8d89)
+![Instagram post - 1 (3)](https://github.com/user-attachments/assets/69be3510-5637-4821-9dc5-b08a0f68db8f)
+
 
 This was my final year project of engineering. It’s a raymarching based 3D engine written in C++ that allows users to create 3D scenes in a node based workflow. I am especially proud of this project as we ideated the workings of this from scratch - taking reference from research papers and other open source software to come up with a solution that is performant and implemented it with a modular and easily extensible OOPs architecture that seems pretty elegant to me. This project involves traversal of a node tree to convert the user defined graph into shader code that is used to render a 3D scene. Solving this problem and seeing it work has been one of the most rewarding experiences of my life and I have been searching for a similar kind of work ever since.
-
-
-
-
-
-
 
 ---
 
