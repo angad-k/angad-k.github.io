@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Write-ups:<br>
   <a href="http://watchout.iitr.ac.in/2023/06/kambli-memoir">IITR memoir</a> <br>
   <a href="https://godotengine.org/article/gsoc-2021-progress-report-1/#pseudolocalization">Pseudolocalization in Godot</a> <br>
-  
+  <a href="https://kambli.substack.com/">My Substack</a> <br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
