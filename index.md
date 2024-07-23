@@ -14,29 +14,6 @@ This was my final year project of engineering. It’s a raymarching based 3D eng
 
 ---
 
-**Outrun Chase** \| [This was featured in GodotCon!](https://www.youtube.com/watch?v=CrOI5HUAPCg&t=7993s)
-
-<img src="images/OutrunChase.png?raw=true"/>
-
----
-
-Other than Outrun Chase, I have worked on a number of other games too.
-
-- **Vibe, a musical, minimalistic game**
-  
-  Made in the Godot game engine \| [Code](https://github.com/r41k0u/Vibe) \| [Play](https://angad-k.github.io/VibeWeb/)
-- **Enchant, an endless 2d runner**
-  
-  Made in the Godot game engine \| [Code](https://github.com/angad-k/Enchant)
-- **Sentience, a sci-fi 2D platformer**
-  
-  Made in the Godot game engine \| [Code](https://github.com/Org-Placeholder/Sentience) \| [Gameplay Demo](https://www.youtube.com/watch?v=a57FwxNgt0s)
-- **Da'Chess, 3D chess**
-  
-  Made in React using React Three Fiber \| [Code](https://github.com/angad-k/crypto-chess) \| [Gameplay Demo](https://www.youtube.com/watch?v=yew42WeQ9-g)
-
----
-
 **Rootex** \| [Code](https://github.com/sdslabs/Rootex)
 
 ![image](https://github.com/user-attachments/assets/0f7b0759-d2b5-4fa8-998c-8b1b7b735091)
@@ -46,6 +23,42 @@ Other than Outrun Chase, I have worked on a number of other games too.
 **Pseudolocalization in Godot (GSoC'21)** \| [GSoC Archive](https://summerofcode.withgoogle.com/archive/2021/projects/4924604774088704) \| [Details](https://gist.github.com/angad-k/60a0d39882c5dff00e8b14183c96effb) \| [Code](https://github.com/godotengine/godot/pull/51395)
 
 As a part of Google Summer of Code'21, I worked on adding the pseudolocalization feature to Godot - an open source game engine written in C++. Pseudolocalization is a useful tool to test if products have been internationalized properly.
+
+---
+
+## And then, a lot of games 🕹️
+
+**Outrun Chase** \| [This was featured in GodotCon!](https://www.youtube.com/watch?v=CrOI5HUAPCg&t=7993s)
+
+<img src="images/OutrunChase.png?raw=true"/>
+
+---
+
+**Molotov Madness, a skill-based top-down chaotic game** \| Made in the Godot game engine \| [Code](https://github.com/twaritwaikar/molotov-madness) \| [Download and play](https://twaritwaikar.itch.io/molotov-madness)
+
+![image](https://github.com/user-attachments/assets/8238d416-17fd-4722-8de3-4aced2c54f17)
+
+---
+
+**Vibe, a musical, minimalistic game** \| Made in the Godot game engine \| [Code](https://github.com/r41k0u/Vibe) \| [Play](https://angad-k.github.io/VibeWeb/)
+
+![image](https://github.com/user-attachments/assets/648aad1e-29c3-4473-a6ab-941beee07f4e)
+
+---
+
+**Enchant, an endless 2d runner**  \| Made in the Godot game engine \| [Code](https://github.com/angad-k/Enchant)
+
+![image](https://github.com/user-attachments/assets/16a1bdcf-b932-4f01-9485-cfebd5cb319f)
+
+---
+
+**Sentience, a sci-fi 2D platformer** \| Made in the Godot game engine \| [Code](https://github.com/Org-Placeholder/Sentience) \| [Gameplay Demo](https://www.youtube.com/watch?v=a57FwxNgt0s)
+
+---
+
+**Da'Chess, 3D chess** \|Made in React using React Three Fiber \| [Code](https://github.com/angad-k/crypto-chess) \| [Gameplay Demo](https://www.youtube.com/watch?v=yew42WeQ9-g)
+
+--- 
 
 ### Also...
 
