@@ -34,29 +34,34 @@ As a part of Google Summer of Code'21, I worked on adding the pseudolocalization
 
 ---
 
-**Molotov Madness, a skill-based top-down chaotic game** \| Made in the Godot game engine \| [Code](https://github.com/twaritwaikar/molotov-madness) \| [Download and play](https://twaritwaikar.itch.io/molotov-madness)
+**Molotov Madness, a skill-based top-down chaotic game** <br>
+Made in the Godot game engine \| [Code](https://github.com/twaritwaikar/molotov-madness) \| [Download and play](https://twaritwaikar.itch.io/molotov-madness)
 
 ![image](https://github.com/user-attachments/assets/8238d416-17fd-4722-8de3-4aced2c54f17)
 
 ---
 
-**Vibe, a musical, minimalistic game** \| Made in the Godot game engine \| [Code](https://github.com/r41k0u/Vibe) \| [Play](https://angad-k.github.io/VibeWeb/)
+**Vibe, a musical, minimalistic game** <br>
+Made in the Godot game engine \| [Code](https://github.com/r41k0u/Vibe) \| [Play](https://angad-k.github.io/VibeWeb/)
 
 ![image](https://github.com/user-attachments/assets/648aad1e-29c3-4473-a6ab-941beee07f4e)
 
 ---
 
-**Enchant, an endless 2d runner**  \| Made in the Godot game engine \| [Code](https://github.com/angad-k/Enchant)
+**Enchant, an endless 2d runner**  <br> 
+Made in the Godot game engine \| [Code](https://github.com/angad-k/Enchant)
 
 ![image](https://github.com/user-attachments/assets/16a1bdcf-b932-4f01-9485-cfebd5cb319f)
 
 ---
 
-**Sentience, a sci-fi 2D platformer** \| Made in the Godot game engine \| [Code](https://github.com/Org-Placeholder/Sentience) \| [Gameplay Demo](https://www.youtube.com/watch?v=a57FwxNgt0s)
+**Sentience, a sci-fi 2D platformer** <br> 
+Made in the Godot game engine \| [Code](https://github.com/Org-Placeholder/Sentience) \| [Gameplay Demo](https://www.youtube.com/watch?v=a57FwxNgt0s)
 
 ---
 
-**Da'Chess, 3D chess** \|Made in React using React Three Fiber \| [Code](https://github.com/angad-k/crypto-chess) \| [Gameplay Demo](https://www.youtube.com/watch?v=yew42WeQ9-g)
+**Da'Chess, 3D chess** <br>
+Made in React using React Three Fiber \| [Code](https://github.com/angad-k/crypto-chess) \| [Gameplay Demo](https://www.youtube.com/watch?v=yew42WeQ9-g)
 
 --- 
 
