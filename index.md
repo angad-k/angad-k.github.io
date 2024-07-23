@@ -7,8 +7,7 @@ I am Angad Kambli - A CSE graduate from the Indian Institute of Technology, Roor
 
 **ProcSDF** \| [Code and other details](https://github.com/angad-k/ProcSDF)  
 
-![Instagram post - 1 (3)](https://github.com/user-attachments/assets/69be3510-5637-4821-9dc5-b08a0f68db8f)
-
+![image](https://github.com/user-attachments/assets/3ed55b41-605b-4a7b-a29c-b23f5afce804)
 
 This was my final year project of engineering. It’s a raymarching based 3D engine written in C++ that allows users to create 3D scenes in a node based workflow. I am especially proud of this project as we ideated the workings of this from scratch - taking reference from research papers and other open source software to come up with a solution that is performant and implemented it with a modular and easily extensible OOPs architecture that seems pretty elegant to me. This project involves traversal of a node tree to convert the user defined graph into shader code that is used to render a 3D scene. Solving this problem and seeing it work has been one of the most rewarding experiences of my life and I have been searching for a similar kind of work ever since.
 
@@ -16,7 +15,7 @@ This was my final year project of engineering. It’s a raymarching based 3D eng
 
 **Rootex** \| [Code](https://github.com/sdslabs/Rootex)
 
-![image](https://github.com/user-attachments/assets/0f7b0759-d2b5-4fa8-998c-8b1b7b735091)
+![image](https://github.com/user-attachments/assets/4df52e5c-48ee-435c-a0af-33f56dc70359)
 
 ---
 
@@ -37,7 +36,7 @@ As a part of Google Summer of Code'21, I worked on adding the pseudolocalization
 **Molotov Madness, a skill-based top-down chaotic game** <br>
 Made in the Godot game engine \| [Code](https://github.com/twaritwaikar/molotov-madness) \| [Download and play](https://twaritwaikar.itch.io/molotov-madness)
 
-![image](https://github.com/user-attachments/assets/8238d416-17fd-4722-8de3-4aced2c54f17)
+![image](https://github.com/user-attachments/assets/1086b7b6-463e-4002-b3de-7d8305eebc92)
 
 ---
 
