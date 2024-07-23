@@ -58,10 +58,14 @@ Made in the Godot game engine \| [Code](https://github.com/angad-k/Enchant)
 **Sentience, a sci-fi 2D platformer** <br> 
 Made in the Godot game engine \| [Code](https://github.com/Org-Placeholder/Sentience) \| [Gameplay Demo](https://www.youtube.com/watch?v=a57FwxNgt0s)
 
+![image](https://github.com/user-attachments/assets/14ce083e-c967-49ea-b47b-4327767a2430)
+
 ---
 
 **Da'Chess, 3D chess** <br>
 Made in React using React Three Fiber \| [Code](https://github.com/angad-k/crypto-chess) \| [Gameplay Demo](https://www.youtube.com/watch?v=yew42WeQ9-g)
+
+![image](https://github.com/user-attachments/assets/3350ab44-34e5-46f9-91c0-dfc7db1c4f96)
 
 --- 
 
