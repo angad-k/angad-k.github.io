@@ -48,7 +48,7 @@ Made in the Godot game engine \| [Code](https://github.com/r41k0u/Vibe) \| [Play
 ---
 
 **Enchant, an endless 2d runner**  <br> 
-Made in the Godot game engine \| [Code](https://github.com/angad-k/Enchant)
+Made in the Godot game engine \| [Code](https://github.com/angad-k/Enchant) \| [Play](https://mayankmittal1.github.io/enchant.github.io/)
 
 ![image](https://github.com/user-attachments/assets/16a1bdcf-b932-4f01-9485-cfebd5cb319f)
 
